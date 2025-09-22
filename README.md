@@ -21,6 +21,6 @@ This README provides an overview of the project, including team details, relevan
 
 - **SIH Presentation:** [Final SIH Presentation](TBD)  
 - **Video Demonstration:** [Watch Video](TBD)  
-- **Live Deployment:** [View Deployment](https://ayurdev-admin.vercel.app)  
+- **Live Deployment:** [View Deployment](https://ayurdev.vercel.app/)  
 - **Source Code:** [GitHub Repository](https://github.com/rashi-raturi/Ayur.dev)  
 - **Additional Resources:** TBD
