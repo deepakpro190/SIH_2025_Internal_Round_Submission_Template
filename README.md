@@ -12,7 +12,7 @@ This README provides an overview of the project, including team details, relevan
 
 - **MEMBER_1** - 2023UCS1671 - DEEPAK GOEL - https://github.com/deepakpro190
 - **MEMBER_2** - 2023UCM2317 - RASHI RATHURI - https://github.com/rashi-raturi
-- **MEMBER_3** - 2023UCM2339 - TANISHKA KHANDELWAL - https://github.com/Tanishka-tech
+- **MEMBER_3** - 2023UCM2339 - TANISHKA KHANDELWAL - https://github.com/tanishka-git2715
 - **MEMBER_4** - 2023UCM2346 - SWARIT - https://github.com/stvy2346
 - **MEMBER_5** - 2023UCM2354 - JAYNAB - https://github.com/deepakpro190
 - **MEMBER_6** - 2023UCM2372 - VANSH KALRA - https://github.com/vanshkallra
