@@ -1,20 +1,34 @@
-## Tasks Accomplished
+# Ayur.dev
 
-- [x] **Task 1:** Description of Task 1 (if needed)
-- [x] **Task 2:** Description of Task 2 (if needed)
-- [x] **Task 3:** Description of Task 3 (if needed)
-
-## Technology Stack
-
-This project leverages the following technologies:
-
-- **[NAME](WEBSITE):** One Line on why you chose this tech and what it is used for.
+**Ayur.dev** is a full-stack web platform that bridges traditional Ayurvedic wisdom with modern technology. It enables patients to connect with certified Ayurvedic doctors, manage appointments, analyze their health constitution, and receive personalized care — all in one place.
 
 ## Key Features
 
-- **Feature 1:** One Line description of Feature 1.
-- **Feature 2:** One Line description of Feature 2.
-- **Feature 3:** One Line description of Feature 3.
+- 🔐 **User Authentication:** Secure login system for patients, doctors, and administrators with role-based access.
+- 📅 **Appointment Scheduling:** Patients can book, reschedule, or cancel appointments. Doctors and admins can manage bookings via a real-time dashboard.
+- 📋 **Patient Profiles & Records Management:** Access comprehensive patient profiles, securely store and update medical history, prescriptions, and treatment plans.
+- 🧾 **Prescription Summarization:** AI-powered summarization helps doctors quickly understand treatment history and progress.
+- 🧬 **PrakrutiSense – Constitution Analysis:** Guided questionnaire to identify the patient's Prakruti (Vata, Pitta, Kapha) for personalized treatments and lifestyle guidance.
+- 🥗 **AyuChart – Personalized Ayurvedic Diet Plans:** Generates diet charts based on Prakruti for nutritional balance.
+- 🗣️ **VaaniAI – Voice-Based Ayurveda Assistant:** Conversational voice assistant offering real-time advice and support.
+- 💬 **AyurMind – Chatbot for Ayurvedic Guidance:** AI chatbot providing instant, reliable responses to queries.
+- 📊 **Admin Dashboard:** Centralized dashboard for managing users, appointments, and platform analytics.
+- 🔒 **Secure Data Storage:** All data securely stored in MongoDB, ensuring privacy and compliance.
+
+## Tech Stack
+
+- **Frontend:** React / TailwindCSS
+- **Backend:** Node.js / Express
+- **Database:** MongoDB
+- **AI/ML:**
+  - NLP models for prescription summarization
+  - LLMs for chatbot and voice assistant
+
+## Demo & Deployment
+
+- **Live Demo:** [https://ayurdev.vercel.app/](https://ayurdev.vercel.app/)  
+- **Admin Panel:** [https://ayurdev-admin.vercel.app](https://ayurdev-admin.vercel.app)
+
 
 ## Local Setup Instructions (Windows & macOS)
 
@@ -50,9 +64,3 @@ npm run dev
 # Frontend Panel
 cd ../frontend
 npm run dev
-
-
-This is fully ready to paste into your README without modification (except replacing the GitHub link).  
-
-If you want, I can also make an **even more compact version** that runs everything sequentially with fewer `cd` commands so beginners can just copy-paste into the terminal. Do you want me to do that?
-
