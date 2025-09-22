@@ -6,6 +6,8 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Name:** SIH Winners  
 
+**Project-Title**:Comprehensive Cloud-Based Practice Management & Nutrient Analysis Software for Ayurvedic Dietitians, Tailored for Ayurveda-Focused Diet Plans . Problem statement Id : **25024**
+
 **Team Leader:** [@vanshkallra](https://github.com/vanshkallra) 
 
 **Team Members:**
@@ -14,8 +16,8 @@ This README provides an overview of the project, including team details, relevan
 - **Deepak Goel** - 2023UCS1671 - [@deepakpro190](https://github.com/deepakpro190)  
 - **Rashi Raturi** - 2023UCM2317 - [@rashi-raturi](https://github.com/rashi-raturi)  
 - **Jaynab P** - 2023UCM2354 - [@JaynabP](https://github.com/JaynabP)  
-- **Vansh Kallra** - 2023UCM2372 - [@vanshkallra](https://github.com/vanshkallra)  
-- **Swarit** - 2023UCM2346 - [@stvy2346](https://github.com/stvy2346)  
+- **Vansh Kalra** - 2023UCM2372 - [@vanshkallra](https://github.com/vanshkallra)  
+- **Swarit Varshney** - 2023UCM2346 - [@stvy2346](https://github.com/stvy2346)  
 
 ## Project Links
 
