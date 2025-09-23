@@ -24,7 +24,7 @@ This README provides an overview of the project, including team details, relevan
 ## Project Links
 
 - **SIH Presentation:** [Final SIH Presentation](TBD)  
-- **Video Demonstration:** [Watch Video](TBD)  
+- **Video Demonstration:** [Watch Video](https://youtu.be/-QQ5AFvT69k)  
 - **Live Deployment:**
    - **User Frontend:** [View User Site](https://ayurdev.vercel.app/)  
    - **Admin Frontend:** [View Admin Site](https://ayurdev-admin.vercel.app)  
