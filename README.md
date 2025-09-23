@@ -99,7 +99,55 @@ This README provides an overview of the project, including team details, relevan
    ```
 
 3. **Set up environment variables**
-   - .env file structures here -
+   You need to create `.env` files for the backend, admin panel, and frontend. Below are the structures for each.
+
+    Backend (.env)
+
+    In your `backend` folder, create a `.env` file with the following structure:
+
+    ```env
+    # MongoDB URI (connection string)
+    MONGODB_URI=
+
+    # JWT Secret used for authentication
+    JWT_SECRET=
+
+    # Admin credentials for login/authentication
+    ADMIN_EMAIL=admin@example.com
+    ADMIN_PASSWORD=admin
+
+    # Cloudinary Configuration for media management
+    CLOUDINARY_NAME=
+    CLOUDINARY_API_KEY=
+    CLOUDINARY_SECRET_KEY=
+
+    # Gemini API Key for integrations or services
+    GEMINI_API_KEY=
+    ```
+    Admin Panel (.env)
+
+    In your admin folder, create a .env file with the following structure:
+    ```env
+    # Currency Symbol (for display purposes in the admin panel)
+    VITE_CURRENCY=₹
+
+    # URL of the backend API (for communication with the backend server)
+    VITE_BACKEND_URL=http://localhost:4000
+    ```
+
+    Frontend (.env)
+
+    In your frontend folder, create a .env file with the following structure:
+    ```env
+    # URL of the backend API (for connecting to the backend services)
+    VITE_BACKEND_URL=http://localhost:4000
+
+    # External URL for Ayurmind API
+    VITE_RAG_URL=https://ayurmind-api.onrender.com
+
+    # Omni Secret Key for external service integrations
+    VITE_OMNI_SECRET_KEY=
+    ```
 
 4. **Start server:**
    ```bash
